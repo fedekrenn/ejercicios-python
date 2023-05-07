@@ -5,6 +5,7 @@ Ejercicios de Python para la asignatura de Introducción a la programación del 
 ## 📚 Contenido
 
 1. Listas, tuplas y diccionarios
+2. Condicionales
 
 
 <br>
