@@ -7,6 +7,7 @@ Ejercicios de Python para la asignatura de Introducción a la programación del 
 1. Listas, tuplas y diccionarios
 2. Condicionales
 3. Estructuras de repetición
+4. Funciones
 
 
 <br>
