@@ -8,6 +8,7 @@ Ejercicios de Python para la asignatura de Introducción a la programación del 
 2. Condicionales
 3. Estructuras de repetición
 4. Funciones
+5. Clases - POO
 
 
 <br>
