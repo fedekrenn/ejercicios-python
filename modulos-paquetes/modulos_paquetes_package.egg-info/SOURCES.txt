@@ -1,0 +1,7 @@
+setup.py
+client_package/__init__.py
+client_package/client.py
+modulos_paquetes_package.egg-info/PKG-INFO
+modulos_paquetes_package.egg-info/SOURCES.txt
+modulos_paquetes_package.egg-info/dependency_links.txt
+modulos_paquetes_package.egg-info/top_level.txt
